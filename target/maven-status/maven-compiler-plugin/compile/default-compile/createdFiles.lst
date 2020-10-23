@@ -1,0 +1,11 @@
+com\antonio\graphicrecipes\resources\JavaEE8Resource.class
+com\antonio\graphicrecipes\dao\GenericDAO.class
+com\antonio\graphicrecipes\JAXRSConfiguration.class
+com\antonio\graphicrecipes\entities\User.class
+com\antonio\graphicrecipes\entities\Category.class
+com\antonio\graphicrecipes\dao\UserDAO.class
+com\antonio\graphicrecipes\dao\UserDAOImplHibernate.class
+com\antonio\graphicrecipes\entities\Recipe.class
+com\antonio\graphicrecipes\dao\RecipeDAO.class
+com\antonio\graphicrecipes\dao\RecipeDAOImplHibernate.class
+com\antonio\graphicrecipes\dao\GenericDAOImplHibernate.class
